@@ -1,4 +1,33 @@
 ﻿<Properties StartupConfiguration="{98283A5E-CBEC-4CAF-AFD8-98D8C38985B9}|Default">
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.Mission14__masfrod2API FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Mission14__masfrod2API PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Models/Movie.cs">
+    <Files>
+      <File FileName="Models/JoelHiltonMovieCollectionContext.cs" Line="1" Column="1" />
+      <File FileName="Models/Movie.cs" Line="21" Column="1" />
+      <File FileName="Controllers/MovieController.cs" Line="22" Column="42" />
+      <File FileName="Program.cs" Line="15" Column="101" />
+      <File FileName="Properties/launchSettings.json" Line="16" Column="48" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Mission14_masfrod2API" expanded="True">
+            <Node name="Mission14_masfrod2API" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="Movie.cs" selected="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>
