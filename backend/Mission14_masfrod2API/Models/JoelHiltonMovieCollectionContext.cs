@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata;
 
+//created using scaffolding
 namespace Mission14_masfrod2API.Models
 {
     public partial class JoelHiltonMovieCollectionContext : DbContext
